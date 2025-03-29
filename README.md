@@ -58,5 +58,4 @@ Distribuído sob a licença MIT.
 ---
 
 **Autor**: Erick Medeiros  
-**Empresa**: Sotreq  
-**Função**: Technical Account Manager (TAM)
+**Função**: Azure Solution Architect
